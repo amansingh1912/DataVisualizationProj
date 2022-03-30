@@ -16,9 +16,9 @@ print(df)
 
 
 # sns.distplot(df['Female Height in Cm'])
-sns.boxplot(x='Male Height in Cm', data=df)
+#sns.boxplot(x='Male Height in Cm', data=df)
 # Conclusion:
 ##Graph is rightly skewed and here mean is greater than median. It is a bell curve graph( which means it has single peak at the top) and the graph is unimodal.
 ##Range of height in female varies from 150 TO 170 cm.
 ##There are no outliers in the graph here.
-plt.show()
+#plt.show()
